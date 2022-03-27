@@ -1,0 +1,1 @@
+1. Users can enter lottery with ETH based on a USD fee
